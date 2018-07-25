@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "402523891875",
+    "firebase_url": "https://messaging-vn.firebaseio.com",
+    "project_id": "messaging-vn",
+    "storage_bucket": "messaging-vn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402523891875:android:ec444467c0cc8177",
+        "android_client_info": {
+          "package_name": "com.messagingfirestorevn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402523891875-cmkqrhaupfi2h02s0fhv46arp1kkf8du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.messagingfirestorevn",
+            "certificate_hash": "568f960ff92ba6e510f61a0fb154cd18144fc204"
+          }
+        },
+        {
+          "client_id": "402523891875-jvr3a4f8ab042is5edelvvkoa76k94nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuR62kFRm3p1PWXXJbdziN-2-LAUBiYBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402523891875-jvr3a4f8ab042is5edelvvkoa76k94nr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402523891875-esig47apbs19q9jub2pceo74ca9ifc59.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.messagingFirestoreVn"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

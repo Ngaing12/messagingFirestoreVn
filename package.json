@@ -1,0 +1,31 @@
+{
+  "name": "messagingFirestoreVn",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "firebase": "5.0.3",
+    "moment": "^2.22.2",
+    "native-base": "^2.7.1",
+    "react": "16.4.1",
+    "react-native": "^0.55.2",
+    "react-native-firebase": "^4.3.4",
+    "react-native-gifted-chat": "^0.4.3",
+    "vue-native-core": "0.0.7",
+    "vue-native-helper": "0.0.8",
+    "vue-native-router": "0.0.1-alpha.3"
+  },
+  "devDependencies": {
+    "babel-jest": "23.4.0",
+    "babel-preset-react-native": "^4.0.0",
+    "jest": "23.4.0",
+    "react-test-renderer": "16.4.1",
+    "vue-native-scripts": "0.0.10"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
